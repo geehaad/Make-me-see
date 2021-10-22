@@ -13,7 +13,7 @@
 <code>!pip install easyocr</code>
 
 <h2>Usage</h2>
-<code>import easyocr <br>
-reader = easyocr.Reader(['ar','en']) # this needs to run only once to load the model into memory<br>
-result = reader.readtext('arabic.jpg')</code>
+<code>import easyocr </code>
+<br><code>reader = easyocr.Reader(['ar','en']) # this needs to run only once to load the model into memory</code>
+<br><code>result = reader.readtext('arabic.jpg')</code>
 
