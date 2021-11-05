@@ -15,4 +15,4 @@ Is the process of generating a textual description of an image.
 Recognizing, identifying, and locating objects within a picture with a given degree of confidence.
 </ol>
 
-<img src="Poster.png">
+<img src="NAID.png">
