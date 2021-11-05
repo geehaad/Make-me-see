@@ -14,3 +14,5 @@ Is the process of generating a textual description of an image.
 <li> Object detection and Recognition.</li>
 Recognizing, identifying, and locating objects within a picture with a given degree of confidence.
 </ol>
+
+<img src="Poster.png">
